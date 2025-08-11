@@ -25,4 +25,4 @@ Under the following terms:
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+Full license text is available in the LICENSE file.
