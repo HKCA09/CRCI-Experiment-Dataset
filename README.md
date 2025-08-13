@@ -14,7 +14,7 @@ This dataset was generated from an experimental study involving:
 
 Full methodology and analysis are described in the associated paper.
 
-### 🛠 CRCI Supporting Tool
+## 🛠 CRCI Supporting Tool
 
 The **CRCI Supporting Tool** is a prototype system developed based on the **Challenged Responsive Code Inspection (CRCI)** method proposed in our paper.  
 In this system, the software itself takes on the role of the *Challenger*, guiding the reviewer through a structured, question-driven self-review process. The tool is designed to simulate the questioning strategy described in our methodology, prompting developers to reflect on their code’s structure, logic, and adherence to requirements.
